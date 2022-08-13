@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+ }
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+.old-house {
+    padding: 0px 20%;
+    margin: 5% 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    word-spacing: 10%;
+}
+
+.inner-container {
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 15%;
+    padding: 20px 20px;
+    word-spacing: 2px;
+    text-align: justify;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100%;
+    background-color: rgba(35, 27, 33, 0.25);
+    box-shadow: 14px 14px 5px 0px rgba(50, 50, 50, 0.9);
+
+}
+.text-center {
+    font-family: 'Rubik Distressed' sans-serif;
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 2px white;
+    text-align: center;
+}
+.house-title {
+    text-transform: uppercase;
+    text-shadow: 2px 2px wheat;
+    font-size: 50px;
+    font-family: 'Rubik Distressed' 'Rubik' sans-serif;
+}
